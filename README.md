@@ -5,3 +5,5 @@ This project looks at outbound flights from Dulles International Airport for the
 We are looking at if the flight was delayed or not, the model is trained on the number of minutes late or early that the flight
 arrived to its final destination. The model was then transformed into its categorical counterpart which was used for the business 
 value analysis at the end.
+
+Please click on the github link at the top of the page to view the jupyter notebook and data files.
